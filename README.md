@@ -1,4 +1,5 @@
 # Olá, Mundo!
- primeiro repositório do curso Git e GitHub
 
+primeiro repositorio do curso de git e github.
 repositorio criado durante uma aula ao vivo.
+Essa linha adicionei diretamente do site!.
